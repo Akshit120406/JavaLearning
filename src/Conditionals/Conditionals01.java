@@ -7,6 +7,7 @@ Expected Output:
 Plaintext
 Pass
 */
+package Conditionals;
 public class Conditionals01 {
     public static void main(String[] args) {
         int marks = 65;
