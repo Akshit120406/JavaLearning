@@ -4,7 +4,6 @@ Task: Declare int marks = 65;. If marks is greater than or equal to 50, print "P
 
 Expected Output:
 
-Plaintext
 Pass
 */
 package Conditionals;
