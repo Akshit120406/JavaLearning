@@ -8,7 +8,7 @@ Expected Output:
 Array is sorted
 */
 package Array;
-public class Array0 {
+public class Array07 {
     public static void main(String[] args) {
         int[] numbers = {3, 7, 12, 19, 25};
         boolean status = true;
